@@ -4,6 +4,7 @@
    官方网址：https://www.tenable.com/products/nessus    
    入门手册：https://docs.tenable.com/nessus/8_11/Content/GettingStarted.htm  
    离线安装方式：https://www.cnblogs.com/bjtime/p/9975902.html  
+   学习参考网址：https://blog.csdn.net/qq_35078631/article/details/76160336   （入门级）  
 2）appscan  
    学习参考微博：  https://www.cnblogs.com/mawenqiangios/p/8573525.html  （偏原理）  
                https://blog.csdn.net/lily_621/article/details/81184302   （偏使用)  
