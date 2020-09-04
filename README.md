@@ -1,4 +1,7 @@
 记录安全测试学习过程
+安全测试理论：  
+1）学习参考网址:  
+   https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/
 安全测试工具使用  
 1）nessus  
    官方网址：https://www.tenable.com/products/nessus    
